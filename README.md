@@ -43,5 +43,5 @@ A interface foi construída utilizando Streamlit, permitindo uma interação sim
 1. Com o ambiente configurado e as dependências instaladas, você pode executar o projeto.
 
    ```bash
-   python main.py
+   streamlit run main.py
    ```
